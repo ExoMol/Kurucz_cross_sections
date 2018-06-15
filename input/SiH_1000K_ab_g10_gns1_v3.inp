@@ -1,0 +1,12 @@
+1                                                                                 (total number of Transition files)
+sihnew.asc
+SiH_Kurucz.states
+ 28                                             (isotopologue = 28,29,30,18)
+ 2.0                                            (statistical weight: V=7/2, O=0=> (2I+1) = 8 )
+1000.0          7.44669563E+02                  (temperature and partition function, negative for recomputing)
+  -0.0   30000.0    30001                       (frequency range and number of points)
+gauss                                           (gauss or doppl  - type of profile or  - or stick for the stick diagram) 
+absorption                                      (type of spectra - absorption or emission)
+10.0                                            (HWHM or printout intensity threshold)
+1e-52                                           (small intensity number for sampling)
+
